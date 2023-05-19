@@ -1,5 +1,6 @@
 var http = require('http'),
   fs = require('fs');
+// fs is a library that read file
 fs.readFile('./test.html', function (err, html) {
   if (err) {
     throw err;
