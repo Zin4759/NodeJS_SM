@@ -1,2 +1,6 @@
 # NodeJS_SM
-Server Management - 담당교수 : 이상곤
+use nodeJS in class that Server Management.
+
+This is place that I learn JS and nodeJS.
+
+I want to feedback so many!
