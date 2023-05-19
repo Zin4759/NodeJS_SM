@@ -1,2 +1,2 @@
 # NodeJS_SM
-Server Management - 이상곤 개**
+Server Management - 담당교수 : 이상곤
