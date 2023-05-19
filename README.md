@@ -6,6 +6,7 @@ This is place that I learn JS and nodeJS.
 This repository will used classroom in university.
 I want to feedback so many!
 
+- This code will run CentOS 7.
 
 --- TODO ---
 1. Login Logic in Homepage
